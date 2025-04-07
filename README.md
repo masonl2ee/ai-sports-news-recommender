@@ -1,4 +1,8 @@
-# AI Sports News Recommender
+# AI Sports News Recommender()
+
+> 🚧 This project is currently in its early development stage!  
+> Features are actively being developed in the `test` and `feature/*` branches.  
+> The `main` branch contains only the initial project structure for now.
 
 An AI-powered sports news recommendation platform that delivers personalized news articles based on users' interests in teams, players, and more.
 
