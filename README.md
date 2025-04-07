@@ -57,7 +57,7 @@ ai-sports-news-recommender/
 |-------|------|
 | Frontend | Next.js, Tailwind CSS |
 | Backend | FastAPI, Python |
-| Recommender | PyTorch, Sentence Transformers |
+| Recommender | PyTorch, Sentence Transformers, etc.|
 | Database | MongoDB, PostgreSQL |
 | API Protocol | REST (JSON) |
 
