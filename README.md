@@ -85,6 +85,3 @@ python inference.py
 ---
 ## To Do
 - _(To be added soon)_
----
-## License
-[MIT License](./License)
