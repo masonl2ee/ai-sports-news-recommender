@@ -1,4 +1,4 @@
-# AI Sports News Recommender()
+# AI Sports News Recommender
 
 > 🚧 This project is currently in its early development stage!  
 > Features are actively being developed in the `test` and `feature/*` branches.  
